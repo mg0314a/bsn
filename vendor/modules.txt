@@ -1,0 +1,77 @@
+# github.com/FISCO-BCOS/crypto v0.0.0-20200202032121-bd8ab0b5d4f1
+github.com/FISCO-BCOS/crypto/ecdsa
+github.com/FISCO-BCOS/crypto/elliptic
+github.com/FISCO-BCOS/crypto/internal/cpu
+github.com/FISCO-BCOS/crypto/internal/randutil
+github.com/FISCO-BCOS/crypto/tls
+github.com/FISCO-BCOS/crypto/x509
+# github.com/aristanetworks/goarista v0.0.0-20170210015632-ea17b1a17847
+github.com/aristanetworks/goarista/monotime
+# github.com/btcsuite/btcd v0.0.0-20171128150713-2e60448ffcc6
+github.com/btcsuite/btcd/btcec
+# github.com/chislab/go-fiscobcos v0.0.0-20200506074116-6de353e978a9
+## explicit
+github.com/chislab/go-fiscobcos
+github.com/chislab/go-fiscobcos/accounts
+github.com/chislab/go-fiscobcos/accounts/abi
+github.com/chislab/go-fiscobcos/accounts/abi/bind
+github.com/chislab/go-fiscobcos/accounts/keystore
+github.com/chislab/go-fiscobcos/channel
+github.com/chislab/go-fiscobcos/common
+github.com/chislab/go-fiscobcos/common/hexutil
+github.com/chislab/go-fiscobcos/common/math
+github.com/chislab/go-fiscobcos/common/mclock
+github.com/chislab/go-fiscobcos/core/types
+github.com/chislab/go-fiscobcos/crypto
+github.com/chislab/go-fiscobcos/crypto/secp256k1
+github.com/chislab/go-fiscobcos/ethclient
+github.com/chislab/go-fiscobcos/event
+github.com/chislab/go-fiscobcos/log
+github.com/chislab/go-fiscobcos/rlp
+github.com/chislab/go-fiscobcos/rpc
+# github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d
+github.com/cpuguy83/go-md2man/v2/md2man
+# github.com/deckarep/golang-set v0.0.0-20180603214616-504e848d77ea
+github.com/deckarep/golang-set
+# github.com/go-stack/stack v1.8.0
+github.com/go-stack/stack
+# github.com/gorilla/websocket v1.4.1-0.20190629185528-ae1634f6a989
+github.com/gorilla/websocket
+# github.com/json-iterator/go v1.1.9
+github.com/json-iterator/go
+# github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742
+github.com/modern-go/reflect2
+# github.com/pborman/uuid v0.0.0-20170112150404-1b00554d8222
+github.com/pborman/uuid
+# github.com/rjeczalik/notify v0.9.1
+github.com/rjeczalik/notify
+# github.com/russross/blackfriday/v2 v2.0.1
+github.com/russross/blackfriday/v2
+# github.com/shurcooL/sanitized_anchor_name v1.0.0
+github.com/shurcooL/sanitized_anchor_name
+# github.com/tidwall/gjson v1.6.0
+github.com/tidwall/gjson
+# github.com/tidwall/match v1.0.1
+github.com/tidwall/match
+# github.com/tidwall/pretty v1.0.0
+github.com/tidwall/pretty
+# github.com/urfave/cli/v2 v2.2.0
+## explicit
+github.com/urfave/cli/v2
+# golang.org/x/crypto v0.0.0-20200311171314-f7b00557c8c4
+golang.org/x/crypto/chacha20
+golang.org/x/crypto/chacha20poly1305
+golang.org/x/crypto/cryptobyte
+golang.org/x/crypto/cryptobyte/asn1
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/hkdf
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/pbkdf2
+golang.org/x/crypto/poly1305
+golang.org/x/crypto/scrypt
+golang.org/x/crypto/sha3
+# golang.org/x/sys v0.0.0-20200302150141-5c8b2ff67527
+golang.org/x/sys/cpu
+golang.org/x/sys/unix
